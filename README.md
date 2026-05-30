@@ -1,2 +1,2 @@
 # flight-controller
-Flight Controller from Scratch
+Flight Controller for a Rocket from Scratch
